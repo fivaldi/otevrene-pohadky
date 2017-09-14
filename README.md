@@ -12,7 +12,7 @@ Záměrem Otevřených pohádek je ukázat, že tzv. **otevřený přístup** k 
 
 Tento odstavec je určen všem, kdo chtějí jakkoliv přispět do Otevřených pohádek nebo podpořit fungování projektu. Ti, kdo chtějí pouze "konzumovat obsah", můžou tento a další odstavce přeskočit a [začít rovnou číst](/pohadky).
 
-1) Poznačit si odkaz (zkratku do Otevřených pohádek) **goo.gl/49fem3**.
+1) Poznačte si odkaz (zkratku do Otevřených pohádek) **goo.gl/49fem3**.
 1) Pokud ještě nemáte svůj účet na službě GitHub, [připojte se](https://github.com/join).
     - Registrace je zcela zdarma.
     - Potřebujete pouze svoji vlastní funkční e-mailovou schránku.
