@@ -28,7 +28,7 @@ Všechna následující slova nebo fráze, které potkáte zeleně podbarvené, 
 - `Propose new file`: Nabídnout nový soubor
     > Patrně se chystáte do Otevřených pohádek poslat své dílo a to je dobrá zpráva. :-)
 - `Propose file change`: Navrhnout úpravu souboru
-    > Patrně se chystáte upravit již existující pohádku k lepšímu. :-)
+    > Patrně se chystáte upravit již existující pohádku k lepšímu a to je dobrá zpráva. :-)
 - `Create/Submit pull request`: Podat návrh na úpravu
     > Patrně podáváte návrh na novou pohádku nebo úpravu existující pohádky. :-) Děkujeme. Když bude mít osoba provádějící finální revizi nějaké připomínky, objeví se jako komentář(e) v daném **pull requestu**.
 
