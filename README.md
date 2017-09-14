@@ -13,7 +13,7 @@ Možností, jak přispět, je celá řada:
 - [Poskytnout několik slovíček](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Slovíčka%20do%20pohádky) jako inspiraci pro někoho, kdo chce napsat otevřenou pohádku.
 - [Napsat otevřenou pohádku](https://github.com/fivaldi/otevrene-pohadky/new/master/pohadky?filename=pohadky/Nová%20pohádka).
 - Upravit příběh již [existující pohádky](/pohadky).
-- Nakreslit, vyfotit a nahrát obrázek k vlastní nebo již existující pohádce.
+- Nakreslit, vyfotit a [nahrát obrázek](https://github.com/fivaldi/otevrene-pohadky/upload/master/obrazky) k vlastní nebo již existující pohádce.
 - Pomáhat s jazykovými korekturami.
 - Sdílet povědomí o projektu Otevřených pohádek na sociálních sítích.
 - Přijít s návrhy na změny fungování projektu Otevřených pohádek.
