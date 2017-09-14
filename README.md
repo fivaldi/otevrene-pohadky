@@ -21,7 +21,7 @@ Tento odstavec je určen všem, kdo chtějí jakkoliv přispět do Otevřených 
 
 ## Vše, co děláte, je správně :-)
 
-Všechna následující slova nebo fráze, které potkáte zeleně podbarvené, jsou signálem toho, že něco děláte **SPRÁVNĚ**. :-) Jednoduše řečeno všechna zeleně podbarvená tlačítka mají pozitivní efekt :-) a i kdyby se něco nezdařilo, nové pohádky i úpravy existujících pohádek vždy ještě nakonec projdou revizí.
+Všechna následující slova nebo fráze, které potkáte zeleně podbarvené, jsou signálem toho, že něco děláte **SPRÁVNĚ**. :-) Jednoduše řečeno všechna zeleně podbarvená tlačítka mají pozitivní efekt :-), a i kdyby se něco nezdařilo, nové pohádky i úpravy existujících pohádek vždy ještě nakonec projdou revizí.
 
 - `Fork this repository and propose changes`: Udělat si svoji vlastní kopii a navrhnout změny
     > Patrně začínáte s přispíváním do Otevřených pohádek a to je dobrá zpráva. :-)
