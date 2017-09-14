@@ -1,4 +1,4 @@
-![Otevřená pohádka](ostatni/otevrena-pohadka.png)
+![Otevřená pohádka](obrazky/otevrena-pohadka.png)
 
 # Otevřené pohádky
 
