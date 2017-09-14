@@ -10,7 +10,7 @@ Záměrem Otevřených pohádek je ukázat, že tzv. **otevřený přístup** k 
 
 Možností, jak přispět, je celá řada:
 
-- Poskytnout několik slovíček jako inspiraci pro někoho, kdo chce napsat otevřenou pohádku.
+- [Poskytnout několik slovíček](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Slovíčka%20do%20pohádky) jako inspiraci pro někoho, kdo chce napsat otevřenou pohádku.
 - Napsat otevřenou pohádku.
 - Upravit příběh již existující pohádky.
 - Nakreslit obrázek pro vlastní nebo již existující pohádku.
@@ -37,9 +37,9 @@ Zde najdete veškerý obsah, který projekt Otevřených pohádek obsahuje. Jedn
 
 ### Issues
 
-Pokud chcete nahlásit chybu v pohádce, přispět svými slovíčky pro inspiraci někomu, kdo se chystá napsat otevřenou pohádku, nebo prostě máte zlepšovací nápad či jakýkoliv jiný návrh související s projektem Otevřených pohádek, nebojte se založit tzv. [issue](https://github.com/fivaldi/otevrene-pohadky/issues).
+Pokud chcete nahlásit chybu v pohádce, přispět svými slovíčky pro inspiraci někomu, kdo se chystá napsat otevřenou pohádku, nebo prostě máte zlepšovací nápad či jakýkoliv jiný návrh související s projektem Otevřených pohádek, nebojte se [založit nové issue](https://github.com/fivaldi/otevrene-pohadky/issues/new).
 
-[Toto](https://github.com/fivaldi/otevrene-pohadky/issues/1) je příklad vůbec prvního issue. :-)
+[Toto je příklad vůbec prvního issue. :-)](https://github.com/fivaldi/otevrene-pohadky/issues/1)
 
 ### Pull requests
 
