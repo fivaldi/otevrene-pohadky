@@ -1,4 +1,4 @@
-Zkratka do Otevřených pohádek: [goo.gl/AH18Uj](https://goo.gl/AH18Uj)
+Zkratka do Otevřených pohádek: [goo.gl/49fem3](https://goo.gl/49fem3)
 
 ![Otevřená pohádka](/obrazky/otevrena-pohadka.png)
 
