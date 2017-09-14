@@ -10,6 +10,7 @@ Záměrem Otevřených pohádek je ukázat, že tzv. **otevřený přístup** k 
 
 Možností, jak přispět, je celá řada:
 
+- Poskytnout několik slovíček jako inspiraci pro někoho, kdo chce napsat otevřenou pohádku.
 - Napsat otevřenou pohádku.
 - Upravit příběh již existující pohádky.
 - Nakreslit obrázek pro vlastní nebo již existující pohádku.
@@ -18,13 +19,31 @@ Možností, jak přispět, je celá řada:
 - Přijít s návrhy na změny fungování projektu Otevřených pohádek.
 - Rozšířit a vylepšit tento návod, potažmo tento seznam možností, jak přispět. :-)
 
-## Jak se zapojit...
+## Jak začít...
 
 Tento odstavec je určen všem, kdo chtějí jakkoliv přispět do Otevřených pohádek nebo podpořit fungování projektu. Ti, kdo chtějí pouze "konzumovat obsah", můžou tento odstavec přeskočit.
 
 1) Pokud ještě nemáte svůj účet na službě GitHub, [připojte se](https://github.com/join).
     - Registrace je zcela zdarma.
     - Potřebujete pouze svoji vlastní funkční e-mailovou schránku.
+
+
+
+## Co znamenají ty divné věci: Code / Issues / Pull requests
+
+### Code
+
+Zde najdete veškerý obsah, který projekt Otevřených pohádek obsahuje. Jedná se o toto úvodní počtení, pohádky samotné, obrázky a další související věcí, které zde budou (doufejme) přibývat a přibývat.
+
+### Issues
+
+Pokud chcete nahlásit chybu v pohádce, přispět svými slovíčky pro inspiraci někomu, kdo se chystá napsat otevřenou pohádku, nebo prostě máte zlepšovací nápad či jakýkoliv jiný návrh související s projektem Otevřených pohádek, nebojte se založit tzv. [issue](https://github.com/fivaldi/otevrene-pohadky/issues).
+
+[Toto](https://github.com/fivaldi/otevrene-pohadky/issues/1) je příklad vůbec prvního issue. :-)
+
+### Pull requests
+
+...a tady už lze přímo vidět, jaké změny se chystají! Ať je to úprava existující pohádky, nová pohádka či třeba vylepšení tohoto úvodního počtení, v *Pull requests* "se to vaří".
 
 ## Společná ujednání
 
