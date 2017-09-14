@@ -2,7 +2,9 @@
 
 # Otevřené pohádky
 
-Pohádky pro všechny, kdo mají otevřenou mysl a chuť společně tvořit.
+> Pohádky pro všechny, kdo mají otevřenou mysl a chuť společně tvořit.
+
+> Pohádky, které žijí, mění se a neustále vyvíjí.
 
 Záměrem Otevřených pohádek je ukázat, že tzv. **otevřený přístup** k tvůrčí činnosti, vzájemné spolupráci a k hledání řešení problémů přináší velké množství výhod pro život skupiny i jednotlivce.
 
