@@ -16,6 +16,7 @@ Tento odstavec je určen všem, kdo chtějí jakkoliv přispět do Otevřených 
 1) Pokud ještě nemáte svůj účet na službě GitHub, [připojte se](https://github.com/join).
     - Registrace je zcela zdarma.
     - Potřebujete pouze svoji vlastní funkční e-mailovou schránku.
+1) Po dokončení registrace a ověření e-mailové adresy se vraťte zpět a pokračujte skecí *Jak přispívat do Otevřených pohádek*.
 
 ## Jak přispívat do Otevřených pohádek
 
