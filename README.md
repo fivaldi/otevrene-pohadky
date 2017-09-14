@@ -11,7 +11,7 @@ Záměrem Otevřených pohádek je ukázat, že tzv. **otevřený přístup** k 
 Možností, jak přispět, je celá řada:
 
 - [Poskytnout několik slovíček](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Slovíčka%20do%20pohádky) jako inspiraci pro někoho, kdo chce napsat otevřenou pohádku.
-- Napsat otevřenou pohádku.
+- [Napsat otevřenou pohádku](https://github.com/fivaldi/otevrene-pohadky/new/master/nove-pohadky).
 - Upravit příběh již existující pohádky.
 - Nakreslit obrázek pro vlastní nebo již existující pohádku.
 - Pomáhat s jazykovými korekturami.
