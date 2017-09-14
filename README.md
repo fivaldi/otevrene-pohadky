@@ -16,6 +16,14 @@ Možností, jak přispět, je celá řada:
 - Přijít s návrhy na změny fungování projektu Otevřených pohádek.
 - Rozšířit a vylepšit tento návod, potažmo tento seznam možností, jak přispět. :-)
 
+## Jak se zapojit...
+
+Tento odstavec je určen všem, kdo chtějí jakkoliv přispět do Otevřených pohádek nebo podpořit fungování projektu. Ti, kdo chtějí pouze "konzumovat obsah", můžou tento odstavec přeskočit.
+
+1) Pokud ještě nemáte svůj účet na službě GitHub, [připojte se](https://github.com/join).
+    - Registrace je zcela zdarma.
+    - Potřebujete pouze svoji vlastní funkční e-mailovou schránku.
+
 ## Společná ujednání
 
 1) Každý přispěvatel má povinnost řídit se [etickým kodexem](https://cs.wikipedia.org/wiki/Etický_kodex) pro publikování obsahu na webu. Kdo nemá povědomí o pojmu *etický kodex*, nemůže do projektu Otevřených pohádek jakkoliv přispívat.
