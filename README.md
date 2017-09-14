@@ -1,3 +1,6 @@
+Krátký odkaz, který vede do Otevřených pohádek: [https://goo.gl/AH18Uj](https://goo.gl/AH18Uj)
+
+
 ![Otevřená pohádka](/obrazky/otevrena-pohadka.png)
 
 # Otevřené pohádky
