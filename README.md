@@ -19,19 +19,6 @@ Tento odstavec je určen všem, kdo chtějí jakkoliv přispět do Otevřených 
     - Potřebujete pouze svoji vlastní funkční e-mailovou schránku.
 1) Po dokončení registrace a ověření e-mailové adresy se vraťte zpět a pokračujte odstavcem *Jak přispívat do Otevřených pohádek*.
 
-## Vše, co děláte, je správně :-)
-
-Všechna následující slova nebo fráze, které potkáte zeleně podbarvené, jsou signálem toho, že něco děláte **SPRÁVNĚ**. :-) Jednoduše řečeno všechna zeleně podbarvená tlačítka mají pozitivní efekt :-), a i kdyby se něco nezdařilo, nové pohádky i úpravy existujících pohádek vždy ještě nakonec projdou revizí.
-
-- `Fork this repository and propose changes`: Udělat si svoji vlastní kopii a navrhnout změny
-    > Patrně začínáte s přispíváním do Otevřených pohádek a to je dobrá zpráva. :-)
-- `Propose new file`: Nabídnout nový soubor
-    > Patrně se chystáte do Otevřených pohádek poslat své dílo a to je dobrá zpráva. :-)
-- `Propose file change`: Navrhnout úpravu souboru
-    > Patrně se chystáte upravit již existující pohádku k lepšímu a to je dobrá zpráva. :-)
-- `Create/Submit pull request`: Podat návrh na úpravu
-    > Patrně podáváte návrh na novou pohádku nebo úpravu existující pohádky. :-) Děkujeme. Když bude mít osoba provádějící finální revizi nějaké připomínky, objeví se jako komentář(e) v daném **pull requestu**.
-
 ## Jak přispívat do Otevřených pohádek
 
 Možností, jak přispět, je celá řada:
@@ -62,6 +49,19 @@ Toto je příklad vůbec [prvního issue](https://github.com/fivaldi/otevrene-po
 ### [Pull requests](https://github.com/fivaldi/otevrene-pohadky/pulls)
 
 ...a tady už lze přímo vidět, jaké změny se chystají! Ať je to úprava existující pohádky, nová pohádka či třeba vylepšení tohoto úvodního počtení, v *Pull requests* "se to vaří".
+
+## Vše, co děláte, je správně :-)
+
+Všechna následující slova nebo fráze, které potkáte zeleně podbarvené, jsou signálem toho, že něco děláte **SPRÁVNĚ**. :-) Jednoduše řečeno všechna zeleně podbarvená tlačítka mají pozitivní efekt :-), a i kdyby se něco nezdařilo, nové pohádky i úpravy existujících pohádek vždy ještě nakonec projdou revizí.
+
+- `Fork this repository and propose changes`: Udělat si svoji vlastní kopii a navrhnout změny
+    > Patrně začínáte s přispíváním do Otevřených pohádek a to je dobrá zpráva. :-)
+- `Propose new file`: Nabídnout nový soubor
+    > Patrně se chystáte do Otevřených pohádek poslat své dílo a to je dobrá zpráva. :-)
+- `Propose file change`: Navrhnout úpravu souboru
+    > Patrně se chystáte upravit již existující pohádku k lepšímu a to je dobrá zpráva. :-)
+- `Create/Submit pull request`: Podat návrh na úpravu
+    > Patrně podáváte návrh na novou pohádku nebo úpravu existující pohádky. :-) Děkujeme. Když bude mít osoba provádějící finální revizi nějaké připomínky, objeví se jako komentář(e) v daném **pull requestu**.
 
 ## Společná ujednání
 
