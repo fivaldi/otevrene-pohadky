@@ -1,4 +1,5 @@
 # Otevřené pohádky
+
 Pohádky pro všechny, kdo mají otevřenou mysl a chuť společně tvořit.
 
 Záměrem Otevřených pohádek je ukázat, že tzv. **otevřený přístup** k tvůrčí činnosti, vzájemné spolupráci a k hledání řešení problémů přináší velké množství výhod pro život skupiny i jednotlivce.
@@ -12,4 +13,14 @@ Možností, jak přispět, je celá řada:
 - Nakreslit obrázek pro vlastní nebo již existující pohádku.
 - Pomáhat s jazykovými korekturami.
 - Sdílet povědomí o projektu Otevřených pohádek na sociálních sítích.
+- Přijít s návrhy na změny fungování projektu Otevřených pohádek.
 - Rozšířit a vylepšit tento návod, potažmo tento seznam možností, jak přispět. :-)
+
+## Společná ujednání
+
+1) Každý přispěvatel má povinnost řídit se [etickým kodexem](https://cs.wikipedia.org/wiki/Etický_kodex) pro publikování obsahu na webu. Kdo nemá povědomí o pojmu *etický kodex*, nemůže do projektu Otevřených pohádek jakkoliv přispívat.
+1) Každý přispěvatel bere na vědomí, že mezi cílovým publikem jsou děti ve věku 0 let a více a že přispívaný obsah tuto skutečnost zohledňuje.
+1) Každý přispěvatel nahráním obsahu potvrzuje, že k tomuto obsahu vlastní veškerá potřebná autorská oprávnění.
+1) Každý přispěvatel souhlasí s využitím nahraného obsahu pro účely projektu Otevřených pohádek (k jeho prezentaci, PR a jiným účelům.)
+1) Každý přispěvatel přispívá na základě vlastní dobré vůle, zdarma, bez nároku na odměnu.
+1) Každý přispěvatel souhlasí, že nahraný obsah bude publikován pod licencí [GNU General Public License v3.0](/LICENSE)
