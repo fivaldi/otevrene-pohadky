@@ -1,4 +1,4 @@
-![Otevřená pohádka](obrazky/otevrena-pohadka.png)
+![Otevřená pohádka](/obrazky/otevrena-pohadka.png)
 
 # Otevřené pohádky
 
@@ -16,8 +16,8 @@ Možností, jak přispět, je celá řada:
 - Nakreslit, vyfotit a [nahrát obrázek](https://github.com/fivaldi/otevrene-pohadky/upload/master/obrazky) k vlastní nebo již existující pohádce.
 - Pomáhat s jazykovými korekturami.
 - Sdílet povědomí o projektu Otevřených pohádek na sociálních sítích.
-- Přijít s návrhy na změny fungování projektu Otevřených pohádek.
-- Rozšířit a vylepšit tento návod, potažmo tento seznam možností, jak přispět. :-)
+- Přijít s [návrhy na změny](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Návrh%20na%20zlepšení) fungování projektu Otevřených pohádek.
+- Rozšířit a vylepšit [toto úvodní počtení](https://github.com/fivaldi/otevrene-pohadky/edit/master/README.md) návod, potažmo tento seznam možností, jak přispět. :-)
 
 ## Jak začít...
 
@@ -26,8 +26,6 @@ Tento odstavec je určen všem, kdo chtějí jakkoliv přispět do Otevřených 
 1) Pokud ještě nemáte svůj účet na službě GitHub, [připojte se](https://github.com/join).
     - Registrace je zcela zdarma.
     - Potřebujete pouze svoji vlastní funkční e-mailovou schránku.
-
-
 
 ## Co znamenají ty divné věci: Code / Issues / Pull requests
 
