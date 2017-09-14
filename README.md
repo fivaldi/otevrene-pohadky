@@ -6,6 +6,14 @@
 
 Záměrem Otevřených pohádek je ukázat, že tzv. **otevřený přístup** k tvůrčí činnosti, vzájemné spolupráci a k hledání řešení problémů přináší velké množství výhod pro život skupiny i jednotlivce.
 
+## Jak začít...
+
+Tento odstavec je určen všem, kdo chtějí jakkoliv přispět do Otevřených pohádek nebo podpořit fungování projektu. Ti, kdo chtějí pouze "konzumovat obsah", můžou tento odstavec přeskočit a [začít rovnou číst](/pohadky).
+
+1) Pokud ještě nemáte svůj účet na službě GitHub, [připojte se](https://github.com/join).
+    - Registrace je zcela zdarma.
+    - Potřebujete pouze svoji vlastní funkční e-mailovou schránku.
+
 ## Jak přispívat do Otevřených pohádek
 
 Možností, jak přispět, je celá řada:
@@ -19,14 +27,6 @@ Možností, jak přispět, je celá řada:
 - Přijít s [návrhy na změny](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Návrh%20na%20zlepšení) fungování projektu Otevřených pohádek.
 - Rozšířit a vylepšit [toto úvodní počtení](https://github.com/fivaldi/otevrene-pohadky/edit/master/README.md) návod, potažmo tento seznam možností, jak přispět. :-)
 
-## Jak začít...
-
-Tento odstavec je určen všem, kdo chtějí jakkoliv přispět do Otevřených pohádek nebo podpořit fungování projektu. Ti, kdo chtějí pouze "konzumovat obsah", můžou tento odstavec přeskočit.
-
-1) Pokud ještě nemáte svůj účet na službě GitHub, [připojte se](https://github.com/join).
-    - Registrace je zcela zdarma.
-    - Potřebujete pouze svoji vlastní funkční e-mailovou schránku.
-
 ## Co znamenají ty divné věci: Code / Issues / Pull requests
 
 ### Code
@@ -37,7 +37,9 @@ Zde najdete veškerý obsah, který projekt Otevřených pohádek obsahuje. Jedn
 
 Pokud chcete nahlásit chybu v pohádce, přispět svými slovíčky pro inspiraci někomu, kdo se chystá napsat otevřenou pohádku, nebo prostě máte zlepšovací nápad či jakýkoliv jiný návrh související s projektem Otevřených pohádek, nebojte se [založit nové issue](https://github.com/fivaldi/otevrene-pohadky/issues/new).
 
-[Toto je příklad vůbec prvního issue. :-)](https://github.com/fivaldi/otevrene-pohadky/issues/1)
+Pokud máte nějaký dotaz nebo nejasnost, projděte si prosím nejdříve [již uzavřené issues](https://github.com/fivaldi/otevrene-pohadky/issues?q=is%3Aissue+is%3Aclosed). Je velmi pravděpodobné, že obdobný dotaz již někdo v minulosti řešil.
+
+Toto je příklad vůbec [prvního issue](https://github.com/fivaldi/otevrene-pohadky/issues/1). :-)
 
 ### Pull requests
 
