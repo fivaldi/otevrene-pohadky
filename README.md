@@ -1,4 +1,4 @@
-Zkratka do Otevřených pohádek: **[goo.gl/49fem3](https://goo.gl/49fem3)**
+Zkratka do Otevřených pohádek: **[goo.gl/zjjatw](https://goo.gl/zjjatw)**
 
 ![Otevřená pohádka](/obrazky/otevrena-pohadka.png)
 
@@ -12,7 +12,7 @@ Pokud jste jen **[přišli číst pohádky](/pohadky)**, i to je dobrá zpráva.
 
 ## Jak začít přispívat...
 
-1) Poznačte si odkaz (zkratku do Otevřených pohádek), pokud byste se náhodou někde ztratili: **goo.gl/49fem3**
+1) Poznačte si odkaz (zkratku do Otevřených pohádek), pokud byste se náhodou někde ztratili: **goo.gl/zjjatw**
 1) V úvodu se Vám může hodit pomoc člověka z oblasti IT. Jakmile se zorientujete, vše už půjde samo. Dobrá zpráva je, že prakticky nic nemůžete pokazit. Nástroj, se kterým budete pracovat, umožňuje provádět úpravy tam a nazpět, psát komentáře, diskutovat a celou řadu dalších věcí, které se nám budou hodit.
 1) Pokud ještě nemáte svůj účet na službě GitHub, **[připojte se](https://github.com/join)**.
     - Registrace je zcela zdarma.
