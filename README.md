@@ -17,6 +17,6 @@ Pokud jste jen **[přišli číst pohádky](/pohadky)**, i to je dobrá zpráva.
 1) Pokud ještě nemáte svůj účet na službě GitHub, **[připojte se](https://github.com/join)**.
     - Registrace je zcela zdarma.
     - Potřebujete pouze svoji vlastní funkční e-mailovou schránku.
-1) Po dokončení registrace a ověření e-mailové adresy se vraťte zpět. Pokud ještě nemáte přesnou představu, čím byste chtěli přispět, **[ťukněte sem, založte tzv. issue a někdo z těch, kdo se již Otevřeným pohádkám věnuje, vám pomůže dále](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Chci%20se%20přidat)**.
+1) Po dokončení registrace a ověření e-mailové adresy se vraťte zpět. Pokud ještě nemáte přesnou představu, čím byste chtěli přispět, **[ťukněte sem, založte tzv. issue](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Chci%20se%20přidat)** a někdo z těch, kdo se již Otevřeným pohádkám věnuje, vám pomůže dále.
 
 **[Další delší počtení :-)](/README_dalsi_delsi_pocteni.md)**
