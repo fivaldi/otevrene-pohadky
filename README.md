@@ -8,7 +8,7 @@ Zkratka do Otevřených pohádek: **[goo.gl/zjjatw](https://goo.gl/zjjatw)**
 
 Záměrem Otevřených pohádek je ukázat, že **otevřenost** v tvůrčí činnosti, vzájemné spolupráci a v hledání řešení problémů přináší velké množství výhod pro život skupiny i jednotlivce.
 
-Pokud jste jen **[přišli číst pohádky](/pohadky)**, i to je dobrá zpráva. Bez čtenářů by nebylo autorů. :-)
+Pokud jste jen **[přišli číst pohádky](/pohadky)**, i to je dobrá zpráva. Bez čtení by nebylo psaní. :-)
 
 ## Jak začít přispívat...
 
