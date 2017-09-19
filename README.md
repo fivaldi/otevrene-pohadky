@@ -8,15 +8,15 @@ Zkratka do Otevřených pohádek: **[goo.gl/49fem3](https://goo.gl/49fem3)**
 
 Záměrem Otevřených pohádek je ukázat, že **otevřenost** v tvůrčí činnosti, vzájemné spolupráci a v hledání řešení problémů přináší velké množství výhod pro život skupiny i jednotlivce.
 
-## Jak začít...
+Pokud jste jen **[přišli číst pohádky](/pohadky)**, i to je dobrá zpráva. Bez čtenářů by nebylo autorů. :-)
 
-Tento odstavec je určen všem, kdo chtějí jakkoliv přispět do Otevřených pohádek nebo podpořit fungování projektu. Ti, kdo chtějí pouze "konzumovat obsah", můžou tento a další odstavce přeskočit a [začít rovnou číst](/pohadky).
+## Jak začít přispívat...
 
 1) Poznačte si odkaz (zkratku do Otevřených pohádek) **goo.gl/49fem3**. Když se někde náhodou ztratíte, vraťte se na něj.
 1) V úvodu se Vám může hodit pomoc člověka z oblasti IT. Jakmile se zorientujete, vše už půjde samo. Dobrá zpráva je, že prakticky nic nemůžete pokazit. Nástroj, se kterým budete pracovat, umožňuje provádět úpravy tam a nazpět, psát komentáře, diskutovat a celou řadu dalších věcí, které se nám budou hodit.
-1) Pokud ještě nemáte svůj účet na službě GitHub, [připojte se](https://github.com/join).
+1) Pokud ještě nemáte svůj účet na službě GitHub, **[připojte se](https://github.com/join)**.
     - Registrace je zcela zdarma.
     - Potřebujete pouze svoji vlastní funkční e-mailovou schránku.
-1) Po dokončení registrace a ověření e-mailové adresy se vraťte zpět a pokud ještě nemáte přesnost představu, čím bsyte chtěli přispět, **[ťukněte sem, založte tzv. issue a někdo, kdo se již Otevřeným pohádkám věnuje, vám pomůže dále.](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Chci%20se%20řidat)**.
+1) Po dokončení registrace a ověření e-mailové adresy se vraťte zpět. Pokud ještě nemáte přesnou představu, čím byste chtěli přispět, **[ťukněte sem, založte tzv. issue a někdo z těch, kdo se již Otevřeným pohádkám věnuje, vám pomůže dále.](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Chci%20se%20přidat)**.
 
-Další počtení...
+**[Další delší počtení :-)](/README_dalsi_delsi_pocteni.md)**
