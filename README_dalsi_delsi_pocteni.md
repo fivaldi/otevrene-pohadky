@@ -1,4 +1,4 @@
-**[Krátké úvodní počtení](/README.md)**
+**[Krátké úvodní počtení :-)](/README.md)**
 
 ## Jak přispívat do Otevřených pohádek
 
