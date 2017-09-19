@@ -1,3 +1,5 @@
+**[Krátké úvodní počtení](/README.md)**
+
 ## Jak přispívat do Otevřených pohádek
 
 Možností, jak přispět, je celá řada:
