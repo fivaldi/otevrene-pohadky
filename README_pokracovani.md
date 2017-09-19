@@ -5,7 +5,7 @@
 Možností, jak přispět, je celá řada:
 
 - [Poskytnout několik slovíček](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Slovíčka%20do%20pohádky) jako inspiraci pro někoho, kdo chce napsat otevřenou pohádku.
-- [Napsat otevřenou pohádku](https://github.com/fivaldi/otevrene-pohadky/new/master/pohadky?filename=pohadky/Nová%20pohádka).
+- [Napsat otevřenou pohádku](https://github.com/fivaldi/otevrene-pohadky/new/master/pohadky?filename=pohadky/Nová%20pohádka.md).
 - Upravit příběh již [existující pohádky](/pohadky).
 - Nakreslit, vyfotit a [nahrát obrázek](https://github.com/fivaldi/otevrene-pohadky/upload/master/obrazky) k vlastní nebo již existující pohádce.
 - Pomáhat s jazykovými korekturami.
@@ -15,7 +15,7 @@ Možností, jak přispět, je celá řada:
 
 ## Co znamenají ty divné věci
 
-Při práci s GitHubem můžete narazit na určité omezené množství termínů, které si zapamatujete a jejichž význam brzy pochopíte.
+Při práci s GitHubem můžete narazit na určité omezené množství termínů, které si však snadno zapamatujete a jejichž význam brzy pochopíte.
 
 ### [Fork](https://github.com/fivaldi/otevrene-pohadky/network/members)
 
