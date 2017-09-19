@@ -21,4 +21,4 @@ Pokud jste jen **[přišli číst pohádky](/pohadky)**, i to je dobrá zpráva.
 
 ### [Pokud se nebojíte vlka nic, ťukněte sem. Máme zde "pískoviště", na kterém se můžete vyřádit, než začnete tvořit skutečné pohádky. Zelená tlačítka vás povedou tajemným lesem. :-)](https://github.com/fivaldi/otevrene-pohadky/edit/master/pohadky/Nultá%20otevřená%20pohádka%20(testovací).md)
 
-**[Delší úvodní počtení...](/README_delsi_uvodni_pocteni.md)**
+**[Pokračování úvodního počtení...](/README_pokracovani.md)**

@@ -1,4 +1,4 @@
-**[Krátké úvodní počtení...](/README.md)**
+**[Úvodní počtení...](/README.md)**
 
 ## Čím lze přispívat do Otevřených pohádek
 
@@ -11,7 +11,7 @@ Možností, jak přispět, je celá řada:
 - Pomáhat s jazykovými korekturami.
 - Sdílet povědomí o projektu Otevřených pohádek na sociálních sítích.
 - Přijít s [návrhy na změny](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Návrh%20na%20zlepšení) fungování projektu Otevřených pohádek.
-- Rozšířit a vylepšit [krátké úvodní počtení](https://github.com/fivaldi/otevrene-pohadky/edit/master/README.md) nebo [delší úvodní počtení](https://github.com/fivaldi/otevrene-pohadky/edit/master/README_delsi_uvodni_pocteni.md), potažmo tento seznam možností, jak přispět. :-)
+- Rozšířit a vylepšit [úvodní počtení](https://github.com/fivaldi/otevrene-pohadky/edit/master/README.md) nebo [jeho pokračování](https://github.com/fivaldi/otevrene-pohadky/edit/master/README_pokracovani.md), potažmo tento seznam možností, jak přispět. :-)
 
 ## Co znamenají ty divné věci
 
