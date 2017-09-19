@@ -19,6 +19,6 @@ Pokud jste jen **[přišli číst pohádky](/pohadky)**, i to je dobrá zpráva.
     - Potřebujete pouze svoji vlastní funkční e-mailovou schránku.
 1) Po dokončení registrace a ověření e-mailové adresy se vraťte zpět. Pokud ještě nemáte přesnou představu, čím byste chtěli přispět, **[ťukněte sem, založte tzv. issue](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Chci%20se%20přidat)** a někdo z těch, kdo se již Otevřeným pohádkám věnují, vám pomůže.
 
-### [Pokud se nebojíte vlka nic, ťukněte sem. Máme zde "pískoviště", na kterém se můžete vyřádit, než začnete tvořit skutečné pohádky. Zelená tlačítka vás povedou tajemným lesem. :-)](https://github.com/fivaldi/otevrene-pohadky/edit/master/pohadky/První%20a%20zároveň%20testovací%20otevřená%20pohádka)
+### [Pokud se nebojíte vlka nic, ťukněte sem. Máme zde "pískoviště", na kterém se můžete vyřádit, než začnete tvořit skutečné pohádky. Zelená tlačítka vás povedou tajemným lesem. :-)](https://github.com/fivaldi/otevrene-pohadky/edit/master/pohadky/Nultá%20otevřená%20pohádka%20(testovací).md)
 
 **[Delší úvodní počtení...](/README_delsi_uvodni_pocteni.md)**
