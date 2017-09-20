@@ -41,7 +41,7 @@ Toto je příklad vůbec [prvního issue](https://github.com/fivaldi/otevrene-po
 
 ### [Pull requests](https://github.com/fivaldi/otevrene-pohadky/pulls)
 
-...a tady už lze přímo vidět, jaké změny se chystají! Ať je to úprava existující pohádky, nová pohádka či třeba vylepšení tohoto úvodního počtení, v *Pull requests* "se to vaří".
+...a tady už lze přímo vidět, jaké změny se chystají! Ať je to úprava existující pohádky, nová pohádka či třeba vylepšení tohoto úvodního počtení, v Pull requests "se to vaří".
 
 Související zelená tlačítka:
 
