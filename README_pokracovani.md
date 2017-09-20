@@ -26,7 +26,6 @@ Související zelené tlačítko:
 - `Fork this repository and propose changes` - Udělat si svoji vlastní kopii a navrhnout změny
     > Patrně začínáte s přispíváním do Otevřených pohádek, a to je dobrá zpráva. :-)
 
-
 ### [Code](https://github.com/fivaldi/otevrene-pohadky)
 
 Zde najdete veškerý obsah, který projekt Otevřených pohádek obsahuje. Jedná se o toto úvodní počtení, pohádky samotné, obrázky a další související věcí, které zde budou (doufejme) přibývat a přibývat.
@@ -61,7 +60,6 @@ Toto je příklad vůbec [prvního komitu](https://github.com/fivaldi/otevrene-p
 ## Mějte na paměti!
 
 Všechna zeleně podbarvená tlačítka mají pozitivní efekt :-), a i kdyby se něco nezdařilo, nové pohádky i úpravy existujících pohádek vždy ještě nakonec projdou revizí.
-
 
 ## Společná ujednání
 
