@@ -15,7 +15,7 @@ Možností, jak přispět, je celá řada:
 
 ## Co znamenají ty divné věci
 
-Při práci se službou GitHub můžete narazit na určité omezené množství termínů, které si však snadno zapamatujete a jejichž význam brzy pochopíte.
+Při práci se službou GitHub můžete narazit na určité omezené množství anglických termínů, které si však snadno zapamatujete a jejichž význam brzy pochopíte.
 
 ### [Fork](https://github.com/fivaldi/otevrene-pohadky/network/members)
 
