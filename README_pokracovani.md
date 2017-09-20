@@ -54,7 +54,7 @@ Související zelená tlačítka:
 
 ### [Commits](https://github.com/fivaldi/otevrene-pohadky/pulls)
 
-"Komity" jsou jednotlivé změny zaznamenané v repozitáři Otevřených pohádek. Může se jednat o úpravu pouhého jednoho písmene, věty, řádku, odstavce, celé pohádky i více souborů najednou.
+*Komity* jsou jednotlivé změny zaznamenané v repozitáři Otevřených pohádek. Může se jednat o úpravu pouhého jednoho písmene, věty, řádku, odstavce, celé pohádky i více souborů najednou.
 
 Toto je příklad vůbec [prvního komitu](https://github.com/fivaldi/otevrene-pohadky/commit/5c9f3a77269595027ba516187788c912132c5224). :-)
 
