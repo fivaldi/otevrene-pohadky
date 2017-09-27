@@ -1,4 +1,4 @@
-Zkratka do Otevřených pohádek: **[jit.do/pohadky](https://jit.do/pohadky)**
+Zkratka do Otevřených pohádek: **[jit.do/pohadky](http://jit.do/pohadky)**
 
 ![Otevřená pohádka](/obrazky/otevrena-pohadka.png)
 
