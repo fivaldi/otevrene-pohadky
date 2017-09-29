@@ -9,6 +9,7 @@ Možností, jak přispět, je celá řada:
 - Upravit příběh již [existující pohádky](/pohadky).
 - Nakreslit, vyfotit a [nahrát obrázek](https://github.com/fivaldi/otevrene-pohadky/upload/master/obrazky) k vlastní nebo již existující pohádce.
 - Pomáhat s jazykovými korekturami.
+- Vytisknout, vyříznout a vyvěsit [letáky](/ostatni/otevrene-pohadky.pdf) na nástěnkách mateřských a základních škol.
 - Sdílet povědomí o projektu Otevřených pohádek na sociálních sítích.
 - Přijít s [návrhy na změny](https://github.com/fivaldi/otevrene-pohadky/issues/new?title=Návrh%20na%20zlepšení) fungování projektu Otevřených pohádek.
 - Rozšířit a vylepšit [úvodní počtení](https://github.com/fivaldi/otevrene-pohadky/edit/master/README.md) nebo [jeho pokračování](https://github.com/fivaldi/otevrene-pohadky/edit/master/README_pokracovani.md), potažmo tento seznam možností, jak přispět. :-)
